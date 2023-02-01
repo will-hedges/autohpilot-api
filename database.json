@@ -135,14 +135,31 @@
       "status": "Dishonorably discharged"
     }
   ],
-  "familyHistories": [
+  "substances": [
     {
       "id": 1,
-      "response": "Denies any family history of suicide."
+      "name": "none"
     },
     {
       "id": 2,
-      "response": "Endorses"
+      "name": "alcohol"
+    },
+    {
+      "id": 3,
+      "name": "cannabis"
+    },
+    {
+      "id": 4,
+      "name": "cocaine"
+    },
+    {
+      "id": 5,
+      "name": "methamphetamine"
+    },
+    {
+      "id": 6,
+      "name": "opiates"
     }
-  ]
+  ],
+  "noteSubstancesAbused": []
 }
