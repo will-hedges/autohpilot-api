@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Heather Mann",
+      "email": "Megane97@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jeremy West",
+      "email": "Giuseppe_Bernhard28@yahoo.com"
+    }
+  ],
+  "visitTypes": [
+    {
+      "id": 1,
+      "visitType": "Initial visit"
+    },
+    {
+      "id": 2,
+      "visitType": "Follow-up visit"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "location": "Telephonic"
+    },
+    {
+      "id": 2,
+      "location": "Televideo"
+    },
+    {
+      "id": 3,
+      "location": "Patient's home"
+    },
+    {
+      "id": 4,
+      "location": "Assisted living facility"
+    }
+  ],
+  "maritalStatuses": [
+    {
+      "id": 1,
+      "status": "Married"
+    },
+    {
+      "id": 2,
+      "status": "Widowed"
+    },
+    {
+      "id": 3,
+      "status": "Divorced"
+    },
+    {
+      "id": 4,
+      "status": "Separated"
+    },
+    {
+      "id": 5,
+      "status": "Never married"
+    },
+    {
+      "id": 6,
+      "status": "Living with partner"
+    }
+  ],
+  "educationLevels": [
+    {
+      "id": 1,
+      "levelCompleted": "Some high school"
+    },
+    {
+      "id": 2,
+      "levelCompleted": "High school diploma/GED"
+    },
+    {
+      "id": 3,
+      "levelCompleted": "Some college"
+    },
+    {
+      "id": 4,
+      "levelCompleted": "College degree"
+    },
+    {
+      "id": 5,
+      "levelCompleted": "Some post-graduate education"
+    },
+    {
+      "id": 6,
+      "levelCompleted": "Post-graduate degree"
+    }
+  ],
+  "housingStatuses": [
+    {
+      "id": 1,
+      "status": "alone"
+    },
+    {
+      "id": 2,
+      "status": "with spouse/partner/family"
+    },
+    {
+      "id": 3,
+      "status": "with friend(s)/roommate(s)"
+    },
+    {
+      "id": 4,
+      "status": "at an assisted living facility"
+    },
+    {
+      "id": 5,
+      "status": "at a skilled nursing facility"
+    },
+    {
+      "id": 6,
+      "status": "at a retirement community"
+    }
+  ],
+  "veteranStatuses": [
+    {
+      "id": 1,
+      "status": "Never served"
+    },
+    {
+      "id": 2,
+      "status": "Honorably discharged"
+    },
+    {
+      "id": 3,
+      "status": "General discharge"
+    },
+    {
+      "id": 4,
+      "status": "Dishonorably discharged"
+    }
+  ],
+  "familyHistories": [
+    {
+      "id": 1,
+      "response": "Denies any family history of suicide."
+    },
+    {
+      "id": 2,
+      "response": "Endorses"
+    }
+  ]
+}
