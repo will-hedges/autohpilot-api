@@ -161,5 +161,92 @@
       "name": "opiates"
     }
   ],
-  "noteSubstancesAbused": []
+  "noteSubstancesAbused": [],
+  "symptoms": [
+    {
+      "id": 1,
+      "name": "Anhedonia"
+    },
+    {
+      "id": 2,
+      "name": "Anxiety attacks"
+    },
+    {
+      "id": 3,
+      "name": "Avoidance"
+    },
+    {
+      "id": 4,
+      "name": "Change in appetite"
+    },
+    {
+      "id": 5,
+      "name": "Crying spells"
+    },
+    {
+      "id": 6,
+      "name": "Decreased libido"
+    },
+    {
+      "id": 7,
+      "name": "Decreased need for sleep"
+    },
+    {
+      "id": 8,
+      "name": "Depressed mood"
+    },
+    {
+      "id": 9,
+      "name": "Difficulty concentrating/forgetfulness"
+    },
+    {
+      "id": 10,
+      "name": "Excessive energy"
+    },
+    {
+      "id": 11,
+      "name": "Excessive guilt"
+    },
+    {
+      "id": 12,
+      "name": "Excessive worry"
+    },
+    {
+      "id": 13,
+      "name": "Fatigue"
+    },
+    {
+      "id": 14,
+      "name": "Hallucinations"
+    },
+    {
+      "id": 15,
+      "name": "Impulsivity"
+    },
+    {
+      "id": 16,
+      "name": "Increased irritability"
+    },
+    {
+      "id": 17,
+      "name": "Increased risky behavior(s)"
+    },
+    {
+      "id": 18,
+      "name": "Loss of interest"
+    },
+    {
+      "id": 19,
+      "name": "Racing thoughts"
+    },
+    {
+      "id": 20,
+      "name": "Sleep pattern disturbance(s)"
+    },
+    {
+      "id": 21,
+      "name": "Suspiciousness"
+    }
+  ],
+  "noteSymptoms": []
 }
