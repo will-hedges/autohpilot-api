@@ -138,26 +138,22 @@
   "substances": [
     {
       "id": 1,
-      "name": "none"
-    },
-    {
-      "id": 2,
       "name": "alcohol"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "cannabis"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "cocaine"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "methamphetamine"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "opiates"
     }
   ],
