@@ -1,70 +1,4 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Heather Mann",
-      "email": "Megane97@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Jeremy West",
-      "email": "Giuseppe_Bernhard28@yahoo.com"
-    }
-  ],
-  "visitTypes": [
-    {
-      "id": 1,
-      "visitType": "Initial visit"
-    },
-    {
-      "id": 2,
-      "visitType": "Follow-up visit"
-    }
-  ],
-  "locations": [
-    {
-      "id": 1,
-      "location": "Telephonic"
-    },
-    {
-      "id": 2,
-      "location": "Televideo"
-    },
-    {
-      "id": 3,
-      "location": "Patient's home"
-    },
-    {
-      "id": 4,
-      "location": "Assisted living facility"
-    }
-  ],
-  "maritalStatuses": [
-    {
-      "id": 1,
-      "status": "Married"
-    },
-    {
-      "id": 2,
-      "status": "Widowed"
-    },
-    {
-      "id": 3,
-      "status": "Divorced"
-    },
-    {
-      "id": 4,
-      "status": "Separated"
-    },
-    {
-      "id": 5,
-      "status": "Never married"
-    },
-    {
-      "id": 6,
-      "status": "Living with partner"
-    }
-  ],
   "educationLevels": [
     {
       "id": 1,
@@ -117,24 +51,53 @@
       "status": "at a retirement community"
     }
   ],
-  "veteranStatuses": [
+  "locations": [
     {
       "id": 1,
-      "status": "Never served"
+      "location": "Telephonic"
     },
     {
       "id": 2,
-      "status": "Honorably discharged"
+      "location": "Televideo"
     },
     {
       "id": 3,
-      "status": "General discharge"
+      "location": "Patient's home"
     },
     {
       "id": 4,
-      "status": "Dishonorably discharged"
+      "location": "Assisted living facility"
     }
   ],
+  "maritalStatuses": [
+    {
+      "id": 1,
+      "status": "Married"
+    },
+    {
+      "id": 2,
+      "status": "Widowed"
+    },
+    {
+      "id": 3,
+      "status": "Divorced"
+    },
+    {
+      "id": 4,
+      "status": "Separated"
+    },
+    {
+      "id": 5,
+      "status": "Never married"
+    },
+    {
+      "id": 6,
+      "status": "Living with partner"
+    }
+  ],
+  "notes": [],
+  "noteSubstances": [],
+  "noteSymptoms": [],
   "substances": [
     {
       "id": 1,
@@ -157,7 +120,6 @@
       "name": "opiates"
     }
   ],
-  "noteSubstancesAbused": [],
   "symptoms": [
     {
       "id": 1,
@@ -244,5 +206,44 @@
       "name": "Suspiciousness"
     }
   ],
-  "noteSymptoms": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Heather Mann",
+      "email": "Megane97@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jeremy West",
+      "email": "Giuseppe_Bernhard28@yahoo.com"
+    }
+  ],
+  "veteranStatuses": [
+    {
+      "id": 1,
+      "status": "Never served"
+    },
+    {
+      "id": 2,
+      "status": "Honorably discharged"
+    },
+    {
+      "id": 3,
+      "status": "General discharge"
+    },
+    {
+      "id": 4,
+      "status": "Dishonorably discharged"
+    }
+  ],
+  "visitTypes": [
+    {
+      "id": 1,
+      "visitType": "Initial visit"
+    },
+    {
+      "id": 2,
+      "visitType": "Follow-up visit"
+    }
+  ]
 }
