@@ -116,7 +116,7 @@
       "legalIssues": "incarcerated 2012-2015",
       "veteranStatusId": 1,
       "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
-      "familySuicideHistory": "Denies any family history of suicide.",
+      "familyHistoryOfSuicide": "Denies any family history of suicide.",
       "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
       "dateCreated": 1675871823010,
       "id": 1
@@ -141,7 +141,7 @@
       "legalIssues": "",
       "veteranStatusId": 1,
       "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
-      "familySuicideHistory": "Denies any family history of suicide.",
+      "familyHistoryOfSuicide": "Denies any family history of suicide.",
       "traumaHistory": "some physical abuse as a child",
       "dateCreated": 1675872163422,
       "id": 2
