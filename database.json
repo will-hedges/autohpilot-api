@@ -2,27 +2,27 @@
   "educationLevels": [
     {
       "id": 1,
-      "levelCompleted": "Some high school"
+      "levelCompleted": "some high school"
     },
     {
       "id": 2,
-      "levelCompleted": "High school diploma/GED"
+      "levelCompleted": "high school diploma/GED"
     },
     {
       "id": 3,
-      "levelCompleted": "Some college"
+      "levelCompleted": "some college"
     },
     {
       "id": 4,
-      "levelCompleted": "College degree"
+      "levelCompleted": "college degree"
     },
     {
       "id": 5,
-      "levelCompleted": "Some post-graduate education"
+      "levelCompleted": "some post-graduate education"
     },
     {
       "id": 6,
-      "levelCompleted": "Post-graduate degree"
+      "levelCompleted": "post-graduate degree"
     }
   ],
   "housingStatuses": [
@@ -54,45 +54,45 @@
   "visitLocations": [
     {
       "id": 1,
-      "location": "Telephonic"
+      "location": "telephonic"
     },
     {
       "id": 2,
-      "location": "Televideo"
+      "location": "televideo"
     },
     {
       "id": 3,
-      "location": "Patient's home"
+      "location": "patient's home"
     },
     {
       "id": 4,
-      "location": "Assisted living facility"
+      "location": "assisted living facility"
     }
   ],
   "maritalStatuses": [
     {
       "id": 1,
-      "status": "Married"
+      "status": "married"
     },
     {
       "id": 2,
-      "status": "Widowed"
+      "status": "widowed"
     },
     {
       "id": 3,
-      "status": "Divorced"
+      "status": "divorced"
     },
     {
       "id": 4,
-      "status": "Separated"
+      "status": "separated"
     },
     {
       "id": 5,
-      "status": "Never married"
+      "status": "never married"
     },
     {
       "id": 6,
-      "status": "Living with partner"
+      "status": "living with partner"
     }
   ],
   "notes": [
@@ -145,6 +145,56 @@
       "traumaHistory": "some physical abuse as a child",
       "dateCreated": 1675872163422,
       "id": 2
+    },
+    {
+      "userId": 1,
+      "visitDate": "2023-02-01",
+      "visitTime": "15:00",
+      "patientAge": 55,
+      "patientGender": "F",
+      "visitLocationId": 1,
+      "visitTypeId": 2,
+      "chiefComplaint": "doing better but still sad",
+      "aggravatingFactors": "'nothing'",
+      "alleviatingFactors": "pets, friends, bridge club",
+      "maritalStatusId": 3,
+      "educationLevelId": 4,
+      "occupation": "elementary school teacher",
+      "religious": true,
+      "financialIssues": "waiting for SSI",
+      "housingStatusId": 1,
+      "legalIssues": "",
+      "veteranStatusId": 0,
+      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
+      "familyHistoryOfSuicide": "Denies any family history of suicide.",
+      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
+      "dateCreated": 1675887782285,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "visitDate": "2023-01-17",
+      "visitTime": "11:00",
+      "patientAge": 74,
+      "patientGender": "F",
+      "visitLocationId": 3,
+      "visitTypeId": 2,
+      "chiefComplaint": "they said i needed to see you",
+      "aggravatingFactors": "'dont know'",
+      "alleviatingFactors": "'i guess visiting with family'",
+      "maritalStatusId": 6,
+      "educationLevelId": 3,
+      "occupation": "retired pharmacist",
+      "religious": false,
+      "financialIssues": "",
+      "housingStatusId": 2,
+      "legalIssues": "",
+      "veteranStatusId": 1,
+      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
+      "familyHistoryOfSuicide": "aunt 2002",
+      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
+      "dateCreated": 1675892899131,
+      "id": 4
     }
   ],
   "noteSubstances": [
@@ -165,74 +215,140 @@
       "substanceId": 3,
       "lastUse": "remote",
       "id": 3
+    },
+    {
+      "noteId": 4,
+      "substanceId": 4,
+      "lastUse": "remote",
+      "id": 4
     }
   ],
   "noteSymptoms": [
     {
       "noteId": 1,
       "symptomId": 1,
-      "course": "Episodic",
+      "course": "episodic",
       "id": 1
     },
     {
       "noteId": 1,
       "symptomId": 4,
-      "course": "Fluctuating",
+      "course": "fluctuating",
       "id": 2
     },
     {
       "noteId": 1,
       "symptomId": 6,
-      "course": "Episodic",
+      "course": "episodic",
       "id": 3
     },
     {
       "noteId": 1,
       "symptomId": 8,
-      "course": "Chronic",
+      "course": "chronic",
       "id": 4
     },
     {
       "noteId": 1,
       "symptomId": 13,
-      "course": "Chronic",
+      "course": "chronic",
       "id": 5
     },
     {
       "noteId": 1,
       "symptomId": 18,
-      "course": "Episodic",
+      "course": "episodic",
       "id": 6
     },
     {
       "noteId": 1,
       "symptomId": 20,
-      "course": "Fluctuating",
+      "course": "fluctuating",
       "id": 7
     },
     {
       "noteId": 2,
       "symptomId": 2,
-      "course": "Episodic",
+      "course": "episodic",
       "id": 8
     },
     {
       "noteId": 2,
       "symptomId": 5,
-      "course": "Fluctuating",
+      "course": "fluctuating",
       "id": 9
     },
     {
       "noteId": 2,
       "symptomId": 12,
-      "course": "Chronic",
+      "course": "chronic",
       "id": 10
     },
     {
       "noteId": 2,
       "symptomId": 19,
-      "course": "Episodic",
+      "course": "episodic",
       "id": 11
+    },
+    {
+      "noteId": 3,
+      "symptomId": 3,
+      "course": "fluctuating",
+      "id": 12
+    },
+    {
+      "noteId": 3,
+      "symptomId": 8,
+      "course": "chronic",
+      "id": 13
+    },
+    {
+      "noteId": 3,
+      "symptomId": 13,
+      "course": "chronic",
+      "id": 14
+    },
+    {
+      "noteId": 3,
+      "symptomId": 16,
+      "course": "fluctuating",
+      "id": 15
+    },
+    {
+      "noteId": 4,
+      "symptomId": 1,
+      "course": "episodic",
+      "id": 16
+    },
+    {
+      "noteId": 4,
+      "symptomId": 8,
+      "course": "chronic",
+      "id": 17
+    },
+    {
+      "noteId": 4,
+      "symptomId": 16,
+      "course": "fluctuating",
+      "id": 18
+    },
+    {
+      "noteId": 4,
+      "symptomId": 13,
+      "course": "chronic",
+      "id": 19
+    },
+    {
+      "noteId": 4,
+      "symptomId": 20,
+      "course": "fluctuating",
+      "id": 20
+    },
+    {
+      "noteId": 4,
+      "symptomId": 18,
+      "course": "episodic",
+      "id": 21
     }
   ],
   "substances": [
@@ -260,87 +376,87 @@
   "symptoms": [
     {
       "id": 1,
-      "name": "Anhedonia"
+      "name": "anhedonia"
     },
     {
       "id": 2,
-      "name": "Anxiety attacks"
+      "name": "anxiety attacks"
     },
     {
       "id": 3,
-      "name": "Avoidance"
+      "name": "avoidance"
     },
     {
       "id": 4,
-      "name": "Change in appetite"
+      "name": "change in appetite"
     },
     {
       "id": 5,
-      "name": "Crying spells"
+      "name": "crying spells"
     },
     {
       "id": 6,
-      "name": "Decreased libido"
+      "name": "decreased libido"
     },
     {
       "id": 7,
-      "name": "Decreased need for sleep"
+      "name": "decreased need for sleep"
     },
     {
       "id": 8,
-      "name": "Depressed mood"
+      "name": "depressed mood"
     },
     {
       "id": 9,
-      "name": "Difficulty concentrating/forgetfulness"
+      "name": "difficulty concentrating/forgetfulness"
     },
     {
       "id": 10,
-      "name": "Excessive energy"
+      "name": "excessive energy"
     },
     {
       "id": 11,
-      "name": "Excessive guilt"
+      "name": "excessive guilt"
     },
     {
       "id": 12,
-      "name": "Excessive worry"
+      "name": "excessive worry"
     },
     {
       "id": 13,
-      "name": "Fatigue"
+      "name": "fatigue"
     },
     {
       "id": 14,
-      "name": "Hallucinations"
+      "name": "hallucinations"
     },
     {
       "id": 15,
-      "name": "Impulsivity"
+      "name": "impulsivity"
     },
     {
       "id": 16,
-      "name": "Increased irritability"
+      "name": "increased irritability"
     },
     {
       "id": 17,
-      "name": "Increased risky behavior(s)"
+      "name": "increased risky behavior(s)"
     },
     {
       "id": 18,
-      "name": "Loss of interest"
+      "name": "loss of interest"
     },
     {
       "id": 19,
-      "name": "Racing thoughts"
+      "name": "racing thoughts"
     },
     {
       "id": 20,
-      "name": "Sleep pattern disturbance(s)"
+      "name": "sleep pattern disturbance(s)"
     },
     {
       "id": 21,
-      "name": "Suspiciousness"
+      "name": "suspiciousness"
     }
   ],
   "users": [
@@ -358,29 +474,29 @@
   "veteranStatuses": [
     {
       "id": 1,
-      "status": "Never served"
+      "status": "never served"
     },
     {
       "id": 2,
-      "status": "Honorably discharged"
+      "status": "honorably discharged"
     },
     {
       "id": 3,
-      "status": "General discharge"
+      "status": "general discharge"
     },
     {
       "id": 4,
-      "status": "Dishonorably discharged"
+      "status": "dishonorably discharged"
     }
   ],
   "visitTypes": [
     {
       "id": 1,
-      "visitType": "Initial visit"
+      "visitType": "initial visit"
     },
     {
       "id": 2,
-      "visitType": "Follow-up visit"
+      "visitType": "follow-up"
     }
   ]
 }
