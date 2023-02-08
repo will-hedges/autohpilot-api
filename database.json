@@ -51,7 +51,7 @@
       "status": "at a retirement community"
     }
   ],
-  "locations": [
+  "visitLocations": [
     {
       "id": 1,
       "location": "Telephonic"
@@ -95,9 +95,146 @@
       "status": "Living with partner"
     }
   ],
-  "notes": [],
-  "noteSubstances": [],
-  "noteSymptoms": [],
+  "notes": [
+    {
+      "userId": 1,
+      "visitDate": "2023-02-06",
+      "visitTime": "14:00",
+      "patientAge": 55,
+      "patientGender": "M",
+      "visitLocationId": 3,
+      "visitTypeId": 1,
+      "chiefComplaint": "'still depressed'",
+      "aggravatingFactors": "job, death of family member",
+      "alleviatingFactors": "dog, wife, friends",
+      "maritalStatusId": 1,
+      "educationLevelId": 2,
+      "occupation": "plumber",
+      "religious": true,
+      "financialIssues": "",
+      "housingStatusId": 2,
+      "legalIssues": "incarcerated 2012-2015",
+      "veteranStatusId": 1,
+      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
+      "familySuicideHistory": "Denies any family history of suicide.",
+      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
+      "dateCreated": 1675871823010,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "visitDate": "2023-02-07",
+      "visitTime": "15:00",
+      "patientAge": 60,
+      "patientGender": "F",
+      "visitLocationId": 1,
+      "visitTypeId": 2,
+      "chiefComplaint": "anxious all the time",
+      "aggravatingFactors": "",
+      "alleviatingFactors": "",
+      "maritalStatusId": 2,
+      "educationLevelId": 4,
+      "occupation": "seamstress",
+      "religious": true,
+      "financialIssues": "",
+      "housingStatusId": 6,
+      "legalIssues": "",
+      "veteranStatusId": 1,
+      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
+      "familySuicideHistory": "Denies any family history of suicide.",
+      "traumaHistory": "some physical abuse as a child",
+      "dateCreated": 1675872163422,
+      "id": 2
+    }
+  ],
+  "noteSubstances": [
+    {
+      "noteId": 1,
+      "substanceId": 1,
+      "lastUse": "sober x3 years",
+      "id": 1
+    },
+    {
+      "noteId": 1,
+      "substanceId": 2,
+      "lastUse": "2 days ago",
+      "id": 2
+    },
+    {
+      "noteId": 1,
+      "substanceId": 3,
+      "lastUse": "remote",
+      "id": 3
+    }
+  ],
+  "noteSymptoms": [
+    {
+      "noteId": 1,
+      "symptomId": 1,
+      "course": "Episodic",
+      "id": 1
+    },
+    {
+      "noteId": 1,
+      "symptomId": 4,
+      "course": "Fluctuating",
+      "id": 2
+    },
+    {
+      "noteId": 1,
+      "symptomId": 6,
+      "course": "Episodic",
+      "id": 3
+    },
+    {
+      "noteId": 1,
+      "symptomId": 8,
+      "course": "Chronic",
+      "id": 4
+    },
+    {
+      "noteId": 1,
+      "symptomId": 13,
+      "course": "Chronic",
+      "id": 5
+    },
+    {
+      "noteId": 1,
+      "symptomId": 18,
+      "course": "Episodic",
+      "id": 6
+    },
+    {
+      "noteId": 1,
+      "symptomId": 20,
+      "course": "Fluctuating",
+      "id": 7
+    },
+    {
+      "noteId": 2,
+      "symptomId": 2,
+      "course": "Episodic",
+      "id": 8
+    },
+    {
+      "noteId": 2,
+      "symptomId": 5,
+      "course": "Fluctuating",
+      "id": 9
+    },
+    {
+      "noteId": 2,
+      "symptomId": 12,
+      "course": "Chronic",
+      "id": 10
+    },
+    {
+      "noteId": 2,
+      "symptomId": 19,
+      "course": "Episodic",
+      "id": 11
+    }
+  ],
   "substances": [
     {
       "id": 1,
