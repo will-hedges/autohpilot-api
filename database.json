@@ -127,10 +127,128 @@
       "traumaHistory": "",
       "dateCreated": 1676395906194,
       "id": 2
+    },
+    {
+      "userId": 1,
+      "visitDate": "2023-02-16",
+      "visitTime": "11:30",
+      "patientAge": 67,
+      "patientGender": "F",
+      "visitLocationId": 1,
+      "visitTypeId": 2,
+      "chiefComplaint": "just checking in",
+      "aggravatingFactors": "",
+      "alleviatingFactors": "",
+      "maritalStatusId": 2,
+      "educationLevelId": 4,
+      "occupation": "retired teacher",
+      "religious": true,
+      "financialIssues": "",
+      "housingStatusId": 1,
+      "legalIssues": "",
+      "veteranStatusId": 1,
+      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
+      "familyHistoryOfSuicide": "Denies any family history of suicide.",
+      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
+      "dateCreated": 1676611757908,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "visitDate": "2023-02-16",
+      "visitTime": "12:00",
+      "patientAge": 45,
+      "patientGender": "M",
+      "visitLocationId": 3,
+      "visitTypeId": 1,
+      "chiefComplaint": "sad all the time",
+      "aggravatingFactors": "job",
+      "alleviatingFactors": "",
+      "maritalStatusId": 1,
+      "educationLevelId": 3,
+      "occupation": "plumber",
+      "religious": false,
+      "financialIssues": "",
+      "housingStatusId": 2,
+      "legalIssues": "incarcerated 2012-2015",
+      "veteranStatusId": 3,
+      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
+      "familyHistoryOfSuicide": "uncle 2003",
+      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
+      "dateCreated": 1676611951330,
+      "id": 4
     }
   ],
-  "noteSubstances": [],
-  "noteSymptoms": [],
+  "noteSubstances": [
+    {
+      "noteId": 4,
+      "substanceId": 2,
+      "lastUse": "occasionally",
+      "id": 1
+    },
+    {
+      "noteId": 4,
+      "substanceId": 4,
+      "lastUse": "remote history",
+      "id": 2
+    },
+    {
+      "noteId": 4,
+      "substanceId": 1,
+      "lastUse": "2-3 drinks/day",
+      "id": 3
+    }
+  ],
+  "noteSymptoms": [
+    {
+      "noteId": 3,
+      "symptomId": 5,
+      "course": "episodic",
+      "id": 1
+    },
+    {
+      "noteId": 3,
+      "symptomId": 13,
+      "course": "chronic",
+      "id": 2
+    },
+    {
+      "noteId": 4,
+      "symptomId": 1,
+      "course": "",
+      "id": 3
+    },
+    {
+      "noteId": 4,
+      "symptomId": 8,
+      "course": "",
+      "id": 4
+    },
+    {
+      "noteId": 4,
+      "symptomId": 6,
+      "course": "",
+      "id": 5
+    },
+    {
+      "noteId": 4,
+      "symptomId": 13,
+      "course": "",
+      "id": 6
+    },
+    {
+      "noteId": 4,
+      "symptomId": 16,
+      "course": "",
+      "id": 7
+    },
+    {
+      "noteId": 4,
+      "symptomId": 20,
+      "course": "",
+      "id": 8
+    }
+  ],
   "substances": [
     {
       "id": 1,
