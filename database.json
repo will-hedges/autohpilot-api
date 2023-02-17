@@ -51,24 +51,6 @@
       "status": "at a retirement community"
     }
   ],
-  "visitLocations": [
-    {
-      "id": 1,
-      "location": "telephonic"
-    },
-    {
-      "id": 2,
-      "location": "televideo"
-    },
-    {
-      "id": 3,
-      "location": "patient's home"
-    },
-    {
-      "id": 4,
-      "location": "assisted living facility"
-    }
-  ],
   "maritalStatuses": [
     {
       "id": 1,
@@ -98,259 +80,57 @@
   "notes": [
     {
       "userId": 1,
-      "visitDate": "2023-02-06",
-      "visitTime": "14:00",
-      "patientAge": 55,
+      "visitDate": "2023-02-14",
+      "visitTime": "11:00",
+      "patientAge": 56,
       "patientGender": "M",
       "visitLocationId": 3,
       "visitTypeId": 1,
-      "chiefComplaint": "'still depressed'",
-      "aggravatingFactors": "job, death of family member",
-      "alleviatingFactors": "dog, wife, friends",
-      "maritalStatusId": 1,
-      "educationLevelId": 2,
-      "occupation": "plumber",
-      "religious": true,
-      "financialIssues": "",
-      "housingStatusId": 2,
-      "legalIssues": "incarcerated 2012-2015",
-      "veteranStatusId": 1,
-      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
-      "familyHistoryOfSuicide": "Denies any family history of suicide.",
-      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
-      "dateCreated": 1675871823010,
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "visitDate": "2023-02-07",
-      "visitTime": "15:00",
-      "patientAge": 60,
-      "patientGender": "F",
-      "visitLocationId": 1,
-      "visitTypeId": 2,
-      "chiefComplaint": "anxious all the time",
+      "chiefComplaint": "THIS IS THE NOTE FOR USER1",
       "aggravatingFactors": "",
       "alleviatingFactors": "",
-      "maritalStatusId": 2,
-      "educationLevelId": 4,
-      "occupation": "seamstress",
-      "religious": true,
+      "maritalStatusId": 0,
+      "educationLevelId": 0,
+      "occupation": "",
+      "religious": null,
       "financialIssues": "",
-      "housingStatusId": 6,
+      "housingStatusId": 0,
       "legalIssues": "",
-      "veteranStatusId": 1,
-      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
-      "familyHistoryOfSuicide": "Denies any family history of suicide.",
-      "traumaHistory": "some physical abuse as a child",
-      "dateCreated": 1675872163422,
-      "id": 2
+      "veteranStatusId": 0,
+      "headInjury": "",
+      "familyHistoryOfSuicide": "",
+      "traumaHistory": "",
+      "dateCreated": 1676395375124,
+      "id": 1
     },
     {
-      "userId": 1,
-      "visitDate": "2023-02-01",
-      "visitTime": "15:00",
-      "patientAge": 55,
+      "userId": 2,
+      "visitDate": "2023-02-14",
+      "visitTime": "12:00",
+      "patientAge": 76,
       "patientGender": "F",
       "visitLocationId": 1,
       "visitTypeId": 2,
-      "chiefComplaint": "doing better but still sad",
-      "aggravatingFactors": "'nothing'",
-      "alleviatingFactors": "pets, friends, bridge club",
-      "maritalStatusId": 3,
-      "educationLevelId": 4,
-      "occupation": "elementary school teacher",
-      "religious": true,
-      "financialIssues": "waiting for SSI",
-      "housingStatusId": 1,
+      "chiefComplaint": "THIS IS THE NOTE FOR USER2",
+      "aggravatingFactors": "",
+      "alleviatingFactors": "",
+      "maritalStatusId": 0,
+      "educationLevelId": 0,
+      "occupation": "",
+      "religious": null,
+      "financialIssues": "",
+      "housingStatusId": 0,
       "legalIssues": "",
       "veteranStatusId": 0,
-      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
-      "familyHistoryOfSuicide": "Denies any family history of suicide.",
-      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
-      "dateCreated": 1675887782285,
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "visitDate": "2023-01-17",
-      "visitTime": "11:00",
-      "patientAge": 74,
-      "patientGender": "F",
-      "visitLocationId": 3,
-      "visitTypeId": 2,
-      "chiefComplaint": "they said i needed to see you",
-      "aggravatingFactors": "'dont know'",
-      "alleviatingFactors": "'i guess visiting with family'",
-      "maritalStatusId": 6,
-      "educationLevelId": 3,
-      "occupation": "retired pharmacist",
-      "religious": false,
-      "financialIssues": "",
-      "housingStatusId": 2,
-      "legalIssues": "",
-      "veteranStatusId": 1,
-      "headInjury": "Denies any history of seizures, serious head injuries/TBIs.",
-      "familyHistoryOfSuicide": "aunt 2002",
-      "traumaHistory": "Denies any hx of physical, sexual, and/or emotional/psychological abuse.",
-      "dateCreated": 1675892899131,
-      "id": 4
-    }
-  ],
-  "noteSubstances": [
-    {
-      "noteId": 1,
-      "substanceId": 1,
-      "lastUse": "sober x3 years",
-      "id": 1
-    },
-    {
-      "noteId": 1,
-      "substanceId": 2,
-      "lastUse": "2 days ago",
+      "headInjury": "",
+      "familyHistoryOfSuicide": "",
+      "traumaHistory": "",
+      "dateCreated": 1676395906194,
       "id": 2
-    },
-    {
-      "noteId": 1,
-      "substanceId": 3,
-      "lastUse": "remote",
-      "id": 3
-    },
-    {
-      "noteId": 4,
-      "substanceId": 4,
-      "lastUse": "remote",
-      "id": 4
     }
   ],
-  "noteSymptoms": [
-    {
-      "noteId": 1,
-      "symptomId": 1,
-      "course": "episodic",
-      "id": 1
-    },
-    {
-      "noteId": 1,
-      "symptomId": 4,
-      "course": "fluctuating",
-      "id": 2
-    },
-    {
-      "noteId": 1,
-      "symptomId": 6,
-      "course": "episodic",
-      "id": 3
-    },
-    {
-      "noteId": 1,
-      "symptomId": 8,
-      "course": "chronic",
-      "id": 4
-    },
-    {
-      "noteId": 1,
-      "symptomId": 13,
-      "course": "chronic",
-      "id": 5
-    },
-    {
-      "noteId": 1,
-      "symptomId": 18,
-      "course": "episodic",
-      "id": 6
-    },
-    {
-      "noteId": 1,
-      "symptomId": 20,
-      "course": "fluctuating",
-      "id": 7
-    },
-    {
-      "noteId": 2,
-      "symptomId": 2,
-      "course": "episodic",
-      "id": 8
-    },
-    {
-      "noteId": 2,
-      "symptomId": 5,
-      "course": "fluctuating",
-      "id": 9
-    },
-    {
-      "noteId": 2,
-      "symptomId": 12,
-      "course": "chronic",
-      "id": 10
-    },
-    {
-      "noteId": 2,
-      "symptomId": 19,
-      "course": "episodic",
-      "id": 11
-    },
-    {
-      "noteId": 3,
-      "symptomId": 3,
-      "course": "fluctuating",
-      "id": 12
-    },
-    {
-      "noteId": 3,
-      "symptomId": 8,
-      "course": "chronic",
-      "id": 13
-    },
-    {
-      "noteId": 3,
-      "symptomId": 13,
-      "course": "chronic",
-      "id": 14
-    },
-    {
-      "noteId": 3,
-      "symptomId": 16,
-      "course": "fluctuating",
-      "id": 15
-    },
-    {
-      "noteId": 4,
-      "symptomId": 1,
-      "course": "episodic",
-      "id": 16
-    },
-    {
-      "noteId": 4,
-      "symptomId": 8,
-      "course": "chronic",
-      "id": 17
-    },
-    {
-      "noteId": 4,
-      "symptomId": 16,
-      "course": "fluctuating",
-      "id": 18
-    },
-    {
-      "noteId": 4,
-      "symptomId": 13,
-      "course": "chronic",
-      "id": 19
-    },
-    {
-      "noteId": 4,
-      "symptomId": 20,
-      "course": "fluctuating",
-      "id": 20
-    },
-    {
-      "noteId": 4,
-      "symptomId": 18,
-      "course": "episodic",
-      "id": 21
-    }
-  ],
+  "noteSubstances": [],
+  "noteSymptoms": [],
   "substances": [
     {
       "id": 1,
@@ -489,14 +269,32 @@
       "status": "dishonorably discharged"
     }
   ],
-  "visitTypes": [
+  "visitLocations": [
     {
       "id": 1,
-      "visitType": "initial visit"
+      "location": "telephonic"
     },
     {
       "id": 2,
-      "visitType": "follow-up"
+      "location": "televideo"
+    },
+    {
+      "id": 3,
+      "location": "patient's home"
+    },
+    {
+      "id": 4,
+      "location": "assisted living facility"
+    }
+  ],
+  "visitTypes": [
+    {
+      "id": 1,
+      "type": "initial visit"
+    },
+    {
+      "id": 2,
+      "type": "follow-up"
     }
   ]
 }
