@@ -367,6 +367,16 @@
       "id": 2,
       "name": "Jeremy West",
       "email": "Giuseppe_Bernhard28@yahoo.com"
+    },
+    {
+      "email": "wshedges@outlook.com",
+      "fullName": "Will Hedges",
+      "id": 3
+    },
+    {
+      "email": "jordan.l.plaxico@outlook.com",
+      "fullName": "Jordan Hedges",
+      "id": 4
     }
   ],
   "veteranStatuses": [
